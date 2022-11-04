@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://l8nite-rpg.github.io/sitemap.xml
