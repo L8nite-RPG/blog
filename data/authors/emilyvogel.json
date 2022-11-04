@@ -1,0 +1,8 @@
+{
+    "name": "Emily Vogel",
+    "image" : "img/emily_vogel_avatar.jpeg",
+    "bio": "Test bio",
+    "social": [
+        { "github": "https://github.com/EVogel1999" }
+    ]
+}
