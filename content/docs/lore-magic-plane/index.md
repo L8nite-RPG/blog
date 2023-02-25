@@ -19,6 +19,38 @@ Most people can only experience the magical planes through the act of astral pro
 
 {{< timeline >}}
 
+{{< timelineItem icon="github" header="header" badge="badge test" subheader="subheader" >}}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="code" header="Another Awesome Header" badge="date - present" subheader="Awesome Subheader" >}}
+With html code
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
+With other shortcodes
+{{< gallery >}}
+  <img src="gallery/01.jpg" class="grid-w33" />
+  <img src="gallery/02.jpg" class="grid-w33" />
+  <img src="gallery/03.jpg" class="grid-w33" />
+  <img src="gallery/04.jpg" class="grid-w33" />
+  <img src="gallery/05.jpg" class="grid-w33" />
+  <img src="gallery/06.jpg" class="grid-w33" />
+  <img src="gallery/07.jpg" class="grid-w33" />
+{{< /gallery >}}
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+
+<!-- {{< timeline >}}
+
 {{< timelineItem icon="fire" header="Magic at the Start" >}}
 
 The earliest experience with magic in the physical planes came from the birth of local legends into reality. Descriptions and stories describing occurrences in the world eventually became true. Beings from the magic plane were birthed into the world to answer the questions about the natural occurrences around them. These traditional stories and tales have kept up, though the origins of them are now understood, and their deities have often faded back into the wisps or abarritions they were birthed from to be recycled back into new legends.
@@ -41,4 +73,4 @@ The scourge, or being scourged occurs when there is too much magical use in an a
 
 {{< /timelineItem >}}
 
-{{< /timeline >}}
+{{< /timeline >}} -->
