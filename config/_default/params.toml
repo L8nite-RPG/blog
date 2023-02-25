@@ -28,7 +28,7 @@ enableCodeCopy = true
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showMoreLinkDest = "/docs"
 
 [article]
   showDate = true
@@ -41,12 +41,12 @@ enableCodeCopy = true
   layoutBackgroundBlur = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
@@ -60,8 +60,10 @@ enableCodeCopy = true
   showBreadcrumbs = false
   showSummary = false
   showTableOfContents = false
-  showCards = false
-  groupByYear = true
+  showCards = true
+  cardView = true
+  cardViewScreenWidth = false
+  groupByYear = false
 
 [sitemap]
   excludedKinds = []
