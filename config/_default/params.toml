@@ -24,11 +24,13 @@ enableCodeCopy = true
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  homepageImage = "img/cover.png" # used in: hero, and card
+  showRecent = true
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/docs"
+  cardView = true
+  cardViewScreenWidth = false
 
 [article]
   showDate = true
@@ -50,10 +52,10 @@ enableCodeCopy = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = true 
+  showTaxonomies = true
   showAuthorsBadges = false 
-  showWordCount = true
-  showSummary = true
+  showWordCount = false
+  showSummary = false
   sharingLinks = [ "twitter", "reddit", "facebook", "email"]
 
 [list]
