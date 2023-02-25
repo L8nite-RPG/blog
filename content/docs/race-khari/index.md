@@ -1,10 +1,10 @@
 ---
-title: "Race - Khari"
+title: "Khari"
 date: 2023-02-24
 draft: false
 showEdit: false
 showWordCount: true
-categories: ["Races", "Mechanics", "Khari"]
+categories: ["Races", "Playable", "Khari"]
 ---
 
 

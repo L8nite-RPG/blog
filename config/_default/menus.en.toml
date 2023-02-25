@@ -12,7 +12,7 @@
 
 [[main]]
  name = "Docs"
- pageRef = "posts"
+ pageRef = "docs"
  weight = 10
 
 #[[main]]
