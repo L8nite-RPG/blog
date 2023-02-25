@@ -3,10 +3,8 @@ title: "Race - Khari"
 date: 2023-02-24
 draft: false
 showEdit: false
-showWordCount: false
-showAuthor: false
-authors:
-- "emilyvogel"
+showWordCount: true
+categories: ["Races", "Mechanics", "Khari"]
 ---
 
 
@@ -18,18 +16,13 @@ authors:
 | Starting | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
 | Limit | 11 | 11 | 12 | 11 | 11 | 12 | 11 | 10 |
 
-
 *(Panthera Sapien Acutis)* are the descendants of desert dwelling panthers of planet 
-
 
 **Wilde Grace:** Most Khari make barely any sound when moving normally. Perception checks that require only sound to detect Khari are negative.
 
-
 **Feline Dexterity:** Khari can use a half action to dash once every turn.
 
-
 Optional Fluff: Khari are uniformly beautiful, with even the least flattering among them standing head and shoulders over most humans. This uniform beauty has led to the common practice of Khari hiding their faces behind masks. Each mask is carefully crafted and unique to the individual, and most Khari communities will consider themself unfit to be seen in public without one.
-
 
 ## Lore
 
