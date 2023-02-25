@@ -15,49 +15,11 @@ Magic is not only defined by the beings it creates however, magic itself is the 
 
 Most people can only experience the magical planes through the act of astral projection, a form of meditation which reveals the energy of the universe to the people who seek it. Wisps and abarritions, along with the magic inside of people or items will make itself apparent through astral projection. During this time the projecting person sees magic as colorful glowing auras, these auras can help define current thoughts or intentions, though the exact nature is not consistent.
 
-## Timeline
-
-{{< timeline >}}
-
-{{< timelineItem icon="github" header="header" badge="badge test" subheader="subheader" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
-
-
-{{< timelineItem icon="code" header="Another Awesome Header" badge="date - present" subheader="Awesome Subheader" >}}
-With html code
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-{{< /timelineItem >}}
-
-{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
-With other shortcodes
-{{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="gallery/02.jpg" class="grid-w33" />
-  <img src="gallery/03.jpg" class="grid-w33" />
-  <img src="gallery/04.jpg" class="grid-w33" />
-  <img src="gallery/05.jpg" class="grid-w33" />
-  <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpg" class="grid-w33" />
-{{< /gallery >}}
-{{< /timelineItem >}}
-
-{{< /timeline >}}
-
-
-<!-- {{< timeline >}}
-
-{{< timelineItem icon="fire" header="Magic at the Start" >}}
+## Magic at the Start
 
 The earliest experience with magic in the physical planes came from the birth of local legends into reality. Descriptions and stories describing occurrences in the world eventually became true. Beings from the magic plane were birthed into the world to answer the questions about the natural occurrences around them. These traditional stories and tales have kept up, though the origins of them are now understood, and their deities have often faded back into the wisps or abarritions they were birthed from to be recycled back into new legends.
 
-{{< /timelineItem >}}
-
-{{< timelineItem icon="sun" header="The beginning of The Age of Knowledge" >}}
+## The Beginning of The Age of Knowledge
 
 Magic as a defined science became defined with the understanding of the six natural elements which make up the magical plane: Order, Chaos, Life, Death, Light, and Dark. Each of these has a different pantheon, each god of which controls lesser elements. These elements form the alphabet for each language which is used to conjure to cast a spell. Different combinations of these alphabets are conjured by motion and sounds in a combination. When added together in specific order they form the spells people use.
 
@@ -65,12 +27,6 @@ Understanding magic was originally kept to the more educated classes, as the abi
 
 The only way a common man would come into the understanding of magics, would be to take an apprenticeship with a spiritual leader, an enchanter, or a magical healer.
 
-{{< /timelineItem >}}
-
-{{< timelineItem icon="shield" header="The Scourge" >}}
+## The Scourge
 
 The scourge, or being scourged occurs when there is too much magical use in an area. The mana cycle dictates that after magic is used for spells, it becomes aether, aether is turned back into mana through the use of chi arts by humans or animals. Scourging causes mutations to the body over time, these mutations can get aggressive in their later stages fully mutating the affected into devils, demons, or monsters. Communities of sapient beings are often exiled from their communities because of their danger and their aggression.
-
-{{< /timelineItem >}}
-
-{{< /timeline >}} -->
