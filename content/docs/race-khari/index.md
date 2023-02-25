@@ -7,8 +7,6 @@ showWordCount: true
 categories: ["Races", "Playable", "Khari"]
 ---
 
-![Picture of a khari woman](khari-portrait.jpg "Picture of a khari woman")
-
 ## Stat Block
 
 | | Hardiness | Strength | Dexterity | Acuity | Charisma | Arcana | Intelligence | Logic |
@@ -25,6 +23,8 @@ categories: ["Races", "Playable", "Khari"]
 Optional Fluff: Khari are uniformly beautiful, with even the least flattering among them standing head and shoulders over most humans. This uniform beauty has led to the common practice of Khari hiding their faces behind masks. Each mask is carefully crafted and unique to the individual, and most Khari communities will consider themself unfit to be seen in public without one.
 
 ## Lore
+
+![Picture of a khari woman](khari-portrait.jpg "Picture of a khari woman")
 
 Known as “the children'' in their own language, khari are a petite, lithe race of extraterrestrial bipeds originally hailing from the planet Jo'suun. They have slender limbs covered in soft fur at the forearm and shin, and their teeth and sharp claws make even an unarmed khari a vicious opponent. Khari possess long ears with a tuft of fur at the tip, capable of hearing frequencies inaudible to humans, and their keen feline eyes allow them to pick up the subtlest traces of movement, even in absolute darkness. The most intriguing quirk of khari biology is the direct result of their homeworld. Jo'suun was an arid world with very little breathable air. The surface of the planet suffered near constant sandstorms, forcing life to flourish around underground rivers and lakes. To compensate for the lack of oxygen, the khari evolved to communicate through mostly non-verbal means, developing them into an empathetic people adept at reading body language and emotion.
 

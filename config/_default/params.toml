@@ -38,7 +38,8 @@ enableCodeCopy = true
   #showLikes = true
   showDateUpdated = false
   showAuthor = true
-  showHero = false
+  showHero = true
+  heroStyle = "background"
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -57,8 +58,6 @@ enableCodeCopy = true
   sharingLinks = [ "twitter", "reddit", "facebook", "email"]
 
 [list]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background
   layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = false
@@ -66,7 +65,7 @@ enableCodeCopy = true
   showCards = true
   groupByYear = true
   cardView = true
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
 
 [sitemap]
   excludedKinds = []
